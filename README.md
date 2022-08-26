@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Isaak
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R, Python, SQL, Tableau, data analytics, Machine Learning & Deep Learning
-- 💞️ I’m looking to collaborate on a Data Science project and gain valuable knowledge
+- 🌱 I’m continuously developing my skills on R, Python, SQL, Tableau, data analytics, Machine Learning & Deep Learning
+- 💞️ I’m looking to collaborate on a Data Science projects, to create useful projects regarding decision making processes  
 - 📫 How to reach me isaak.karag@gmail.com
 
 <!---
